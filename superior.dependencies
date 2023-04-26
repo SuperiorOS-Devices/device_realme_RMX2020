@@ -11,10 +11,16 @@
 		"remote": "SuperiorOS-Devices"
 	},
 	{
-		"repository": "ArrowOS-Devices/android_vendor_realme_RMX2020-ims",
+		"repository": "vendor_realme_RMX2020-ims",
 		"target_path": "vendor/realme/RMX2020-ims",
+		"branch": "thirteen",
+		"remote": "SuperiorOS-Devices"
+	},
+	{
+	    "repository": "ArrowOS/android_device_mediatek_sepolicy_vndr",
+		"target_path": "device/mediatek/sepolicy_vndr",
 		"branch": "arrow-13.1",
-		"remote": "github"
+		"remote": "github"	
 	},
 	{
 		"repository": "ArrowOS-Devices/android_prebuilts_clang_host_linux-x86_clang-r437112",
