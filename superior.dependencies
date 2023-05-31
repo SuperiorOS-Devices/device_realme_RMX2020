@@ -23,6 +23,12 @@
 		"remote": "github"	
 	},
 	{
+		"repository": "ArrowOS/android_hardware_mediatek",
+		"target_path": "hardware/mediatek",
+		"branch": "arrow-13.1",
+		"remote": "github"	
+	},
+	{
 		"repository": "ArrowOS-Devices/android_prebuilts_clang_host_linux-x86_clang-r437112",
 		"target_path": "prebuilts/clang/host/linux-x86/clang-r437112",
 		"branch": "main",
