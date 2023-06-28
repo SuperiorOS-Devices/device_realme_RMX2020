@@ -17,21 +17,21 @@
 		"remote": "SuperiorOS-Devices"
 	},
 	{
-		"repository": "ArrowOS/android_device_mediatek_sepolicy_vndr",
+		"repository": "sarthakroy2002/platform_device_mediatek_sepolicy_vndr",
 		"target_path": "device/mediatek/sepolicy_vndr",
 		"branch": "arrow-13.1",
 		"remote": "github"
 	},
 	{
-		"repository": "ArrowOS/android_hardware_mediatek",
+		"repository": "LineageOS/android_hardware_mediatek",
 		"target_path": "hardware/mediatek",
-		"branch": "arrow-13.1",
+		"branch": "lineage-20",
 		"remote": "github"
 	},
 	{
-		"repository": "ArrowOS-Devices/android_prebuilts_clang_host_linux-x86_clang-r437112",
+		"repository": "sarthakroy2002/android_prebuilts_clang_host_linux-x86_clang-r437112",
 		"target_path": "prebuilts/clang/host/linux-x86/clang-r437112",
-		"branch": "main",
+		"branch": "master",
 		"remote": "github"
 	}
 ]
