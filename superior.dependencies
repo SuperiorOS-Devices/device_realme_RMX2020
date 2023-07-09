@@ -17,7 +17,7 @@
 		"remote": "SuperiorOS-Devices"
 	},
 	{
-		"repository": "sarthakroy2002/platform_device_mediatek_sepolicy_vndr",
+		"repository": "ArrowOS/android_device_mediatek_sepolicy_vndr",
 		"target_path": "device/mediatek/sepolicy_vndr",
 		"branch": "arrow-13.1",
 		"remote": "github"
