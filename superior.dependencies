@@ -1,37 +1,44 @@
-[{
-		"repository": "vendor_realme_RMX2020",
-		"target_path": "vendor/realme/RMX2020",
-		"branch": "thirteen",
-		"remote": "SuperiorOS-Devices"
-	},
-	{
-		"repository": "kernel_realme_RMX2020",
-		"target_path": "kernel/realme/RMX2020",
-		"branch": "thirteen",
-		"remote": "SuperiorOS-Devices"
-	},
-	{
-		"repository": "vendor_realme_RMX2020-ims",
-		"target_path": "vendor/realme/RMX2020-ims",
-		"branch": "thirteen",
-		"remote": "SuperiorOS-Devices"
-	},
-	{
-		"repository": "ArrowOS/android_device_mediatek_sepolicy_vndr",
-		"target_path": "device/mediatek/sepolicy_vndr",
-		"branch": "arrow-13.1",
-		"remote": "github"
-	},
-	{
-		"repository": "LineageOS/android_hardware_mediatek",
-		"target_path": "hardware/mediatek",
-		"branch": "lineage-20",
-		"remote": "github"
-	},
-	{
-		"repository": "sarthakroy2002/android_prebuilts_clang_host_linux-x86_clang-r437112b",
-		"target_path": "prebuilts/clang/host/linux-x86/clang-r437112b",
-		"branch": "master",
-		"remote": "gitlab"
-	}
+[
+    {
+        "repository": "vendor_realme_RMX2020",
+        "target_path": "vendor/realme/RMX2020",
+        "branch": "thirteen",
+        "remote": "SuperiorOS-Devices"
+    },
+    {
+        "repository": "kernel_realme_RMX2020",
+        "target_path": "kernel/realme/RMX2020",
+        "branch": "thirteen",
+        "remote": "SuperiorOS-Devices"
+    },
+    {
+        "repository": "vendor_realme_RMX2020-ims",
+        "target_path": "vendor/realme/RMX2020-ims",
+        "branch": "thirteen",
+        "remote": "SuperiorOS-Devices"
+    },
+    {
+        "repository": "ArrowOS/android_device_mediatek_sepolicy_vndr",
+        "target_path": "device/mediatek/sepolicy_vndr",
+        "branch": "arrow-13.1",
+        "remote": "github"
+    },
+    {
+        "repository": "LineageOS/android_hardware_mediatek",
+        "target_path": "hardware/mediatek",
+        "branch": "lineage-20",
+        "remote": "github"
+    },
+    {
+        "repository": "sarthakroy2002/android_prebuilts_clang_host_linux-x86_clang-r437112b",
+        "target_path": "prebuilts/clang/host/linux-x86/clang-r437112b",
+        "branch": "master",
+        "remote": "gitlab"
+    },
+    {
+        "repository": "ArrowOS/android_packages_resources_devicesettings",
+        "target_path": "packages_resources_devicesettings",
+        "branch": "arrow-13.1",
+        "remote": "github"
+    }
 ]
